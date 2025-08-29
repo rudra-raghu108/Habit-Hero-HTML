@@ -1,7 +1,5 @@
 # 🌟 Habit Hero – Gamified Habit & Wellness Tracker
 
-![Habit Hero Banner]
-
 Habit Hero is a **gamified habit tracker** that transforms daily routines into an engaging, rewarding experience.  
 Built with **vanilla HTML, CSS, and JavaScript**, it helps you build and maintain habits by turning habit tracking into a **fun game**. 🚀
 
