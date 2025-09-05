@@ -5,6 +5,10 @@ Built with **vanilla HTML, CSS, and JavaScript**, it helps you build and maintai
 
 ---
 
+
+<img width="1919" height="1026" alt="Screenshot 2025-09-05 164014" src="https://github.com/user-attachments/assets/325d4bb9-c7ca-41e0-9ed5-b0f623341e12" />
+
+
 ## ✨ Features
 
 ### 🎮 Gamification
